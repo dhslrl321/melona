@@ -115,3 +115,13 @@
 - MultipartFile [Java Docs](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/multipart/MultipartFile.html)
 - Java Swing 으로 Music Player 만들기 [tistory](https://aristatait.tistory.com/17)
 - How to Make a GUI Music Player In Java [youtube](https://www.youtube.com/watch?v=OX3CFHLV9ws)
+
+---
+
+# 발표
+  
+- 바뀐점이 있다면 반영해서 발표 
+- 영상으로 보여주기 
+- 10 분 발표 
+- 월요일은 시험, 화요일은 발표 
+- 11시 시험 
